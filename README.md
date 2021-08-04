@@ -1,24 +1,24 @@
 ## Learning to Communicate
 
-### Espeak example audio
-Here we give samples of Espeak generated audio, using Espeak's internal phonetic descriptions. The text, phonetic description and audio output are given.
+### eSpeak example audio
+Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio, using eSpeak's internal phonetic descriptions. The text, phonetic description, and audio output are given.
 
 - "Hello World": `h@loUw3:ld`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - "Up": `Vp`<br>
   <audio controls>
     <source src="assets/audio/es_up.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - "Down": `daUn`<br>
   <audio controls>
     <source src="assets/audio/es_down.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - "Left": `lEft`<br>
   <audio controls>
     <source src="assets/audio/es_left.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - "Right": `raIt`<br>
   <audio controls>
     <source src="assets/audio/es_right.wav" type="audio/wav">
@@ -26,18 +26,18 @@ Here we give samples of Espeak generated audio, using Espeak's internal phonetic
 
 ### Ungrounded single-concept audio samples
 
-- Concept 0: `test`<br>
+- Concept 0: `VtSXx`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio>
-- Concept 1: `test`<br>
+  </audio><br>
+- Concept 1: `aUllC`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - Concept 2: `test`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio>
+  </audio><br>
 - Concept 3: `test`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
@@ -147,6 +147,68 @@ Here we give samples of Espeak generated audio, using Espeak's internal phonetic
     <td>
       <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
+      </audio>
+    </td>
+  </tr>
+</table>
+
+### Grounded one-word audio samples
+
+<table>
+  <tr>
+    <th>Target word</th>
+    <th>Ground truth</th>
+    <th>Predicted phones</th>
+  </tr>
+  <tr>
+    <td>Up</td>
+    <td>`Vp`<br>
+      <audio controls>
+        <source src="assets/audio/es_up.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>`VvB`<br>
+      <audio controls>
+        <source src="assets/audio/pred_up.wav" type="audio/wav">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>Down</td>
+    <td>`daUn`<br>
+      <audio controls>
+        <source src="assets/audio/es_down.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>`daU`<br>
+      <audio controls>
+        <source src="assets/audio/pred_down.wav" type="audio/wav">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>Left</td>
+    <td>`lEft`<br>
+      <audio controls>
+        <source src="assets/audio/es_left.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>`lE`<br>
+      <audio controls>
+        <source src="assets/audio/pred_left.wav" type="audio/wav">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>Right</td>
+    <td>`raIt`<br>
+      <audio controls>
+        <source src="assets/audio/es_right.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>`raISjn.`<br>
+      <audio controls>
+        <source src="assets/audio/pred_right.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
