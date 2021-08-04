@@ -1,36 +1,47 @@
 ## Learning to Communicate
 
 ### Espeak example audio
-<audio controls>
-  <source src="assets/audio/hello_world.wav" type="audio/wav">
-</audio>
+Here we give samples of Espeak generated audio, using Espeak's internal phonetic descriptions. The text, phonetic description and audio output are given.
+
+- "Hello World": `h@loUw3:ld`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world.wav" type="audio/wav">
+  </audio>
+- "Up": `Vp`<br>
+  <audio controls>
+    <source src="assets/audio/es_up.wav" type="audio/wav">
+  </audio>
+- "Down": `daUn`<br>
+  <audio controls>
+    <source src="assets/audio/es_down.wav" type="audio/wav">
+  </audio>
+- "Left": `lEft`<br>
+  <audio controls>
+    <source src="assets/audio/es_left.wav" type="audio/wav">
+  </audio>
+- "Right": `raIt`<br>
+  <audio controls>
+    <source src="assets/audio/es_right.wav" type="audio/wav">
+  </audio>
 
 ### Ungrounded single-concept audio samples
 
-- Concept 0: `test`  
-  <td>
-    <audio controls>
-      <source src="assets/audio/hello_world.wav" type="audio/wav">
-    </audio>
-  </td>
-- Concept 1: `test`  
-  <td>
-    <audio controls>
-      <source src="assets/audio/hello_world.wav" type="audio/wav">
-    </audio>
-  </td>
-- Concept 2: `test`  
-  <td>
-    <audio controls>
-      <source src="assets/audio/hello_world.wav" type="audio/wav">
-    </audio>
-  </td>
-- Concept 3: `test`  
-  <td>
-    <audio controls>
-      <source src="assets/audio/hello_world.wav" type="audio/wav">
-    </audio>
-  </td>
+- Concept 0: `test`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world.wav" type="audio/wav">
+  </audio>
+- Concept 1: `test`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world.wav" type="audio/wav">
+  </audio>
+- Concept 2: `test`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world.wav" type="audio/wav">
+  </audio>
+- Concept 3: `test`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world.wav" type="audio/wav">
+  </audio>
 
 ### Ungrounded two-concept audio samples
 
