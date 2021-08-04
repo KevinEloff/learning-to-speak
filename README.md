@@ -1,3 +1,5 @@
 ## Learning to Communicate
 
-<audio src="assets/audio/hello_world.wav"></audio>
+<audio controls>
+  <source src="assets/audio/hello_world.wav" type="audio/wav">
+</audio>
