@@ -6,11 +6,11 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
 - "Hello World": `h@loUw3:ld`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - "Up": `Vp`<br>
   <audio controls>
     <source src="assets/audio/es_up.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - "Down": `daUn`<br>
   <audio controls>
     <source src="assets/audio/es_down.wav" type="audio/wav">
@@ -18,7 +18,7 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
 - "Left": `lEft`<br>
   <audio controls>
     <source src="assets/audio/es_left.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - "Right": `raIt`<br>
   <audio controls>
     <source src="assets/audio/es_right.wav" type="audio/wav">
@@ -29,15 +29,15 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
 - Concept 0: `VtSXx`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio><br>
-- Concept 1: `aUllC`<br>
+  </audio>
+- Concept 1: `aUllC`<br>z
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - Concept 2: `test`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - Concept 3: `test`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
@@ -162,12 +162,12 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
   </tr>
   <tr>
     <td>Up</td>
-    <td>`Vp`<br>
+    <td><code>Vp</code><br>
       <audio controls>
         <source src="assets/audio/es_up.wav" type="audio/wav">
       </audio>
     </td>
-    <td>`VvB`<br>
+    <td><code>VvB</code><br>
       <audio controls>
         <source src="assets/audio/pred_up.wav" type="audio/wav">
       </audio>
@@ -175,12 +175,12 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
   </tr>
   <tr>
     <td>Down</td>
-    <td>`daUn`<br>
+    <td><code>daUn</code><br>
       <audio controls>
         <source src="assets/audio/es_down.wav" type="audio/wav">
       </audio>
     </td>
-    <td>`daU`<br>
+    <td><code>daU</code><br>
       <audio controls>
         <source src="assets/audio/pred_down.wav" type="audio/wav">
       </audio>
@@ -188,12 +188,12 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
   </tr>
   <tr>
     <td>Left</td>
-    <td>`lEft`<br>
+    <td><code>lEft</code><br>
       <audio controls>
         <source src="assets/audio/es_left.wav" type="audio/wav">
       </audio>
     </td>
-    <td>`lE`<br>
+    <td><code>lE</code><br>
       <audio controls>
         <source src="assets/audio/pred_left.wav" type="audio/wav">
       </audio>
@@ -201,12 +201,12 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
   </tr>
   <tr>
     <td>Right</td>
-    <td>`raIt`<br>
+    <td><code>raIt</code><br>
       <audio controls>
         <source src="assets/audio/es_right.wav" type="audio/wav">
       </audio>
     </td>
-    <td>`raISjn.`<br>
+    <td><code>raISjn.</code><br>
       <audio controls>
         <source src="assets/audio/pred_right.wav" type="audio/wav">
       </audio>
