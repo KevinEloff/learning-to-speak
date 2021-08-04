@@ -7,25 +7,25 @@
 
 ### Ungrounded single-concept audio samples
 
-- Concept 0:
+- Concept 0: `test`\
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 1:
+- Concept 1: `test`\
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 2:
+- Concept 2: `test`\
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 3:
+- Concept 3: `test`\
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
@@ -51,22 +51,22 @@
     <td>0</td>
     <td>
       <audio controls>
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/hello_world.wav" style="width: 200px; type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/hello_world.wav" style="width: 175px;" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/hello_world.wav" style="width: 150px;" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/hello_world.wav" style="width: 125px;" type="audio/wav">
       </audio>
     </td>
   </tr>
