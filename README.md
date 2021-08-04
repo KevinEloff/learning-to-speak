@@ -35,7 +35,7 @@
 ### Ungrounded two-concept audio samples
 
 
-<table>
+<table style="left: -50px; width: 120%; position: relative;">
   <tr>
     <td colspan="2" rowspan="2"></td>
     <th colspan="4">s1</th>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <th rowspan="4">s2</th>
-    <td>0</td>
+    <th>0</th>
     <td>
       <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
