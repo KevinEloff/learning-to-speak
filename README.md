@@ -7,25 +7,25 @@
 
 ### Ungrounded single-concept audio samples
 
-- Concept 0: `test`\
+- Concept 0: `test`  
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 1: `test`\
+- Concept 1: `test`  
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 2: `test`\
+- Concept 2: `test`  
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
     </audio>
   </td>
-- Concept 3: `test`\
+- Concept 3: `test`  
   <td>
     <audio controls>
       <source src="assets/audio/hello_world.wav" type="audio/wav">
@@ -41,100 +41,100 @@
     <th colspan="4">s1</th>
   </tr>
   <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <th>0</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
   </tr>
   <tr>
     <th rowspan="4">s2</th>
     <td>0</td>
     <td>
-      <audio controls>
-        <source src="assets/audio/hello_world.wav" style="width: 200px; type="audio/wav">
-      </audio>
-    </td>
-    <td>
-      <audio controls>
-        <source src="assets/audio/hello_world.wav" style="width: 175px;" type="audio/wav">
-      </audio>
-    </td>
-    <td>
-      <audio controls>
-        <source src="assets/audio/hello_world.wav" style="width: 150px;" type="audio/wav">
-      </audio>
-    </td>
-    <td>
-      <audio controls>
-        <source src="assets/audio/hello_world.wav" style="width: 125px;" type="audio/wav">
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
   <tr>
-    <td>2</td>
+    <th>1</th>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
   <tr>
-    <td>3</td>
+    <th>2</th>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
     <td>
-      <audio controls>
+      <audio controls style="width: 175px;">
+        <source src="assets/audio/hello_world.wav" type="audio/wav">
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <th>3</th>
+    <td>
+      <audio controls style="width: 175px;">
+        <source src="assets/audio/hello_world.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 175px;">
+        <source src="assets/audio/hello_world.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 175px;">
+        <source src="assets/audio/hello_world.wav" type="audio/wav">
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 175px;">
         <source src="assets/audio/hello_world.wav" type="audio/wav">
       </audio>
     </td>
