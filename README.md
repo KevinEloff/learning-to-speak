@@ -14,7 +14,7 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
 - "Down": `daUn`<br>
   <audio controls>
     <source src="assets/audio/es_down.wav" type="audio/wav">
-  </audio><br>
+  </audio>
 - "Left": `lEft`<br>
   <audio controls>
     <source src="assets/audio/es_left.wav" type="audio/wav">
@@ -25,22 +25,23 @@ Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio
   </audio>
 
 ### Ungrounded single-concept audio samples
+Here we show 4 out of the total 16 ungrounded single-concept audio samples.
 
-- Concept 0: `VtSXx`<br>
+- Concept 0: `ggn.e:`<br>
   <audio controls>
-    <source src="assets/audio/hello_world.wav" type="audio/wav">
+    <source src="assets/audio/upred_0.wav" type="audio/wav">
   </audio>
-- Concept 1: `aUllC`<br>z
+- Concept 1: `3:bsr.`<br>
   <audio controls>
-    <source src="assets/audio/hello_world.wav" type="audio/wav">
+    <source src="assets/audio/upred_1.wav" type="audio/wav">
   </audio>
-- Concept 2: `test`<br>
+- Concept 2: `a#2S;t[t[`<br>
   <audio controls>
-    <source src="assets/audio/hello_world.wav" type="audio/wav">
+    <source src="assets/audio/upred_2.wav" type="audio/wav">
   </audio>
-- Concept 3: `test`<br>
+- Concept 3: `s;O~l-_::`<br>
   <audio controls>
-    <source src="assets/audio/hello_world.wav" type="audio/wav">
+    <source src="assets/audio/upred_3.wav" type="audio/wav">
   </audio>
 
 ### Ungrounded two-concept audio samples
