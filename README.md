@@ -1,29 +1,13 @@
 ## Learning to Communicate
 
 ### eSpeak example audio
-Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio, using eSpeak's internal phonetic descriptions. The text, phonetic description, and audio output are given.
+Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio, using eSpeak's internal phonetic descriptions. The text, phonetic description, and audio output are given. Our agents use eSpeak's phoneset, which we convert to IPA for display (using [lexconvert](http://ssb22.user.srcf.net/gradint/lexconvert.html)).
 
 <!-- - "Hello World": `h@loUw3:ld`<br> -->
 - "Hello World": `hələʊ wəːld`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
   </audio>
-<!-- - "Up": `Vp`<br>
-  <audio controls>
-    <source src="assets/audio/es_up.wav" type="audio/wav">
-  </audio>
-- "Down": `daUn`<br>
-  <audio controls>
-    <source src="assets/audio/es_down.wav" type="audio/wav">
-  </audio>
-- "Left": `lEft`<br>
-  <audio controls>
-    <source src="assets/audio/es_left.wav" type="audio/wav">
-  </audio>
-- "Right": `raIt`<br>
-  <audio controls>
-    <source src="assets/audio/es_right.wav" type="audio/wav">
-  </audio> -->
 
 ### Ungrounded single-concept audio samples
 Here we show 4 out of the total 16 ungrounded single-concept audio samples.
@@ -68,22 +52,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
     <th>0</th>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_00.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_10.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_20.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_30.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
@@ -91,22 +75,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
     <th>1</th>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_01.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_11.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_21.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_31.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
@@ -114,22 +98,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
     <th>2</th>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_02.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_12.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_22.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_32.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
@@ -137,22 +121,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
     <th>3</th>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_03.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_13.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_23.wav" type="audio/wav">
       </audio>
     </td>
     <td>
       <audio controls style="width: 175px;">
-        <source src="assets/audio/hello_world.wav" type="audio/wav">
+        <source src="assets/audio/upred2_33.wav" type="audio/wav">
       </audio>
     </td>
   </tr>
