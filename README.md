@@ -50,22 +50,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
   <tr>
     <th rowspan="4">s2</th>
     <th>0</th>
-    <td>
+    <td><code>nnʎɣɣx</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_00.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ðʎʎççç</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_10.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>nsspxx</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_20.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>nnssss</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_30.wav" type="audio/wav">
       </audio>
@@ -73,22 +73,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
   </tr>
   <tr>
     <th>1</th>
-    <td>
+    <td><code>jʎʎeee</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_01.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>əəʀʀee</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_11.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>wwwxxx</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_21.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>sssəəə</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_31.wav" type="audio/wav">
       </audio>
@@ -96,22 +96,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
   </tr>
   <tr>
     <th>2</th>
-    <td>
+    <td><code>jjʎʎːː</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_02.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ðpʎʎjː</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_12.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ðwppçx</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_22.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>enɣsss</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_32.wav" type="audio/wav">
       </audio>
@@ -119,22 +119,22 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
   </tr>
   <tr>
     <th>3</th>
-    <td>
+    <td><code>jjʎːːː</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_03.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ɣððpːː</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_13.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ɣjxxxp</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_23.wav" type="audio/wav">
       </audio>
     </td>
-    <td>
+    <td><code>ɣssːːː</code><br>
       <audio controls style="width: 175px;">
         <source src="assets/audio/upred2_33.wav" type="audio/wav">
       </audio>
@@ -203,7 +203,7 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
         <source src="assets/audio/es_right.wav" type="audio/wav">
       </audio>
     </td>
-<!--     <td><code>raISjn.</code><br> -->
+<!--     <td><code>raISjn</code><br> -->
     <td><code>ɹaɪʃjəːn</code><br>
       <audio controls>
         <source src="assets/audio/pred_right.wav" type="audio/wav">
