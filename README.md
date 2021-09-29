@@ -1,5 +1,3 @@
-## Learning to Communicate
-
 ### eSpeak example audio
 Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio, using eSpeak's internal phonetic descriptions. The text, phonetic description, and audio output are given. Our agents use eSpeak's phoneset, which we convert to IPA for display (using [lexconvert](http://ssb22.user.srcf.net/gradint/lexconvert.html)).
 
