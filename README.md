@@ -13,7 +13,7 @@ Here we give samples of [Tacotron 2](https://github.com/NVIDIA/tacotron2) + [HiF
 
 - "Hello World": `HH AH0 L OW1   W ER1 L D`<br>
   <audio controls>
-    <source src="assets/audio/hello_world_taco.wav" type="audio/wav">
+    <source src="assets/audio/hell_world_taco.wav" type="audio/wav">
   </audio>
 
 ### Tacotron samples
