@@ -3,38 +3,50 @@
 ### eSpeak example audio
 Here we give samples of [eSpeak](http://espeak.sourceforge.net/) generated audio, using eSpeak's internal phonetic descriptions. The text, phonetic description, and audio output are given. Our agents use eSpeak's phoneset, which we convert to IPA for display (using [lexconvert](http://ssb22.user.srcf.net/gradint/lexconvert.html)).
 
-<!-- - "Hello World": `h@loUw3:ld`<br> -->
 - "Hello World": `hələʊ wəːld`<br>
   <audio controls>
     <source src="assets/audio/hello_world.wav" type="audio/wav">
   </audio>
 
-### Ungrounded single-concept audio samples
-Here we show 4 out of the total 16 ungrounded single-concept audio samples.
+### Tacotron 2 + HiFi GAN example audio
+Here we give samples of [Tacotron 2](https://github.com/NVIDIA/tacotron2) + [HiFi-GAN](https://github.com/jik876/hifi-gan) generated audio.
+
+- "Hello World": `HH AH0 L OW1   W ER1 L D`<br>
+  <audio controls>
+    <source src="assets/audio/hello_world_taco.wav" type="audio/wav">
+  </audio>
+
+### Tacotron samples
+Here we vary the first (s1) attribute and leave the other attributes constant
 
 <!-- - Concept 0: `ggn.e:`<br> -->
-- Concept 0: `ɡɡəːn`<br>
+- s1 = 0: `ɡoikiksss`<br>
   <audio controls>
-    <source src="assets/audio/upred_0.wav" type="audio/wav">
+    <source src="assets/audio/oikiksss.wav" type="audio/wav">
   </audio>
-<!-- - Concept 1: `3:bsr.`<br> -->
-- Concept 1: `əːbsɹ`<br>
+<!-- - Concept 1: `sikiksss`<br> -->
+- s1 = 1: `sikiksss`<br>
   <audio controls>
-    <source src="assets/audio/upred_1.wav" type="audio/wav">
+    <source src="assets/audio/sikiksss.wav" type="audio/wav">
   </audio>
-<!-- - Concept 2: `a#2S;t[t[`<br> -->
-- Concept 2: `əʃtt`<br>
+<!-- - Concept 2: `iikiksss`<br> -->
+- s1 = 2: `iikiksss`<br>
   <audio controls>
-    <source src="assets/audio/upred_2.wav" type="audio/wav">
+    <source src="assets/audio/iikiksss.wav" type="audio/wav">
   </audio>
-<!-- - Concept 3: `s;O~l-_::`<br> -->
-- Concept 3: `sɔːl`<br>
+<!-- - Concept 3: `iiksssss`<br> -->
+- s1 = 3: `iiksssss`<br>
   <audio controls>
-    <source src="assets/audio/upred_3.wav" type="audio/wav">
+    <source src="assets/audio/iiksssss.wav" type="audio/wav">
   </audio>
 
+- s1 = 4: `aikkssss`<br>
+  <audio controls>
+    <source src="assets/audio/aikkssss.wav" type="audio/wav">
+  </audio>
+
+<!--
 ### Ungrounded two-concept audio samples
-
 
 <table style="left: -50px; width: 120%; position: relative;">
   <tr>
@@ -140,7 +152,7 @@ Here we show 4 out of the total 16 ungrounded single-concept audio samples.
       </audio>
     </td>
   </tr>
-</table>
+</table>-->
 
 ### Grounded one-word audio samples
 
